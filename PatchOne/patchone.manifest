@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1488690411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ab2a97186c1c2f7c8dc77ba5a460112
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/MyWork/Scenes/PatchOne.unity
+Dependencies: []
