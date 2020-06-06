@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2340134135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7d0ed9a6780be29e106454641889d6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1b6346e8eeeac4efa5b8a23e0e8fc12
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4613705eb68b38742bb784a9576bc574, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MyWork/Scenes/PatchOneVersion/versionchecker.prefab
+Dependencies: []
